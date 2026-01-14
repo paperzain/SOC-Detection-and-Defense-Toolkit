@@ -28,9 +28,9 @@ This repository is intended to serve as a central hub for security practitioners
 
 ---
 
-## Getting Started
+## Do Follow me on Linkedin to stay connected 
+- https://www.linkedin.com/in/syed-ali-zain-cys/
 
-Clone the repository to your local machine:
 
 ## Table of Contents
 
