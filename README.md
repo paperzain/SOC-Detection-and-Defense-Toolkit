@@ -1,6 +1,6 @@
 # SOC, Detection & Defense Toolkit
 
-<p align="center">
+<p align="left">
 <img width="500" height="272" alt="SOC TOOLKIT" src="https://github.com/user-attachments/assets/e7c7f2e3-e16d-473b-8f6f-0347aa8855d6" />
 
 
