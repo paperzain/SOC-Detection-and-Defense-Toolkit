@@ -1,7 +1,7 @@
 # SOC, Detection & Defense Toolkit
 
 <p align="center">
-<img src="https://soc-detection-toolkit.my.canva.site/" height="300">
+<img src="https://soc-detection-toolkit.my.canva.site/" height="500">
 </p> 
 
 ## Description
