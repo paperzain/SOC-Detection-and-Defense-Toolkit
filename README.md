@@ -34,7 +34,6 @@ This repository is intended to serve as a central hub for security practitioners
 
 ## Table of Contents
 
-- [Blue Team Tips](#blue-team-tips)
 - [Network Discovery & Mapping](#network-discovery--mapping)
 - [Vulnerability Management](#vulnerability-management)
 - [Security Monitoring](#security-monitoring)
@@ -48,18 +47,6 @@ This repository is intended to serve as a central hub for security practitioners
 - [Communication & Collaboration](#communication--collaboration)
 
 # Tool List
-
-<details open>
-    <summary><b>Blue Team Tips</b> 4 tips</summary>
-    <ul>
-        <ul>
-            <li><b><a href="#payload-extraction-with-process-hacker">Payload extraction with Process Hacker</a></b><i> @embee_research</i></li>
-            <li><b><a href="#prevent-script-execution-via-double-click">Prevent Script Execution via Double Click</a></b><i> Default Application GPO Change</i></li>
-            <li><b><a href="#detect-cryptojacking-malware-with-proxy-logs">Detect Cryptojacking Malware with Proxy Logs</a></b><i> Dave Mckay</i></li>
-            <li><b><a href="#remove-null-bytes-in-cyberchef-malware-analysis">Remove null bytes in CyberChef malware analysis</a></b><i> @Securityinbits</i></li>
-        </ul>
-    </ul>
-</details>
 
 <details open>
     <summary><b>Network Discovery and Mapping</b> 6 tools</summary>
